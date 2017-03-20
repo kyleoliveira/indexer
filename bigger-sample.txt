@@ -1,0 +1,12 @@
+java is a programming language originally developed by james gosling at sun 
+microsystems which is now a subsidiary of oracle corporation and released in 
+1995 as a core component of sun microsystems java platform the language derives
+ much of its syntax from c and c++ but has a simpler object model and fewer 
+low-level facilities java applications are typically compiled to bytecode class
+ file that can run on any java virtual machine jvm regardless of computer
+ architecture java is a general-purpose concurrent class-based object-oriented
+ language that is specifically designed to have as few implementation 
+dependencies as possible it is intended to let application developers write 
+once run anywhere java is currently one of the most popular programming 
+languages in use and is widely used from application software to web 
+applications

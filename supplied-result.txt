@@ -1,0 +1,8 @@
+brown 1
+dog 4
+fox 1
+jumps 1
+lazy 2, 3
+over 1
+quick 1
+the 1, 2

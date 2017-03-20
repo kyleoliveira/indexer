@@ -1,0 +1,178 @@
+a 2, 4, 11, 18, 25, 27, 31, 32
+after 6
+against 1
+all 1, 22, 29
+ambition 19
+an 23
+and 2, 3, 4, 6, 7, 13, 15, 17, 18, 21, 22, 28, 29, 31, 34
+argument 24
+army 17
+as 16
+at 20, 26
+be 4, 8, 23, 36
+beast 4
+beds 32
+before 6
+bestial 9
+blood 28
+bloody 36
+but 4, 11, 25
+by 18
+cannot 33
+capability 7
+cause 15, 33
+charge 17
+chief 3
+continent 34
+coward 13
+craven 9
+danger 22
+dare 22
+death 22, 30
+delicate 18
+discourse 5
+divine 19
+do 1, 13, 14, 16
+dull 2
+earth 16
+eggshell 23
+enough 34
+even 23
+event 10, 20
+ever 13
+examples 16
+excitements 28
+exhort 16
+exposing 21
+fame 31
+fantasy 31
+father 27
+feed 4
+fight 32
+find 25
+for 23, 31, 32
+forth 35
+fortune 22
+from 35
+fust 8
+gave 6
+go 32
+godlike 7
+good 3
+graves 32
+great 23, 24
+greatly 25
+gross 16
+hath 11
+have 15, 27
+he 5
+hide 35
+his 3
+honor 26
+how 1, 26
+i 13, 14, 15, 26, 29
+if 3
+imminent 30
+in 8, 25
+inform 1
+invisible 20
+is 2, 14, 21, 24, 26, 34
+it 8, 16
+killed 27
+know 13
+large 5
+led 18
+let 29
+like 32
+live 14
+looking 6
+made 5
+makes 20
+man 2
+market 3
+mass 17
+me 1, 16
+means 15
+men 30
+more 4
+mortal 21
+mother 27
+mouths 20
+my 2, 28, 29, 36
+no 4
+not 6, 13, 24, 34
+nothing 36
+now 8
+numbers 33
+o 35
+oblivion 9
+occasions 1
+of 3, 10, 17, 28, 30, 31
+on 10
+one 11
+or 9, 36
+par 11
+parts 13
+plot 32
+precisely 10
+prince 18
+puffed 19
+quarrel 25
+quartered 11
+reason 7, 28
+revenge 2
+rightly 23
+say 14
+scruple 9
+see 29
+shame 29
+sith 15
+slain 35
+sleep 4, 29
+some 9
+spirit 19
+spur 2
+stained 27
+stake 26
+stand 26
+stir 24
+straw 25
+strength 15
+such 5, 17
+sure 5
+tender 18
+that 5, 7, 22, 27, 31
+the 10, 20, 26, 30, 33, 35
+their 32
+then 26
+thing 14
+thinking 10
+this 14, 17, 35
+thought 11
+thoughts 36
+thousand 30
+three 13
+time 3, 35
+to 4, 8, 10, 14, 16, 22, 23, 24, 25, 29, 32, 35
+tomb 34
+trick 31
+try 33
+twenty 30
+unsure 21
+unused 8
+us 5, 6, 8
+what 2, 21
+when 26
+whereon 33
+whether 8
+which 11, 34
+while 29
+whose 19
+why 14
+will 15
+wisdom 12
+with 5, 19
+without 24
+witness 17
+worth 36
+yet 14

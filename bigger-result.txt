@@ -1,0 +1,91 @@
+1995 3
+a 1, 2, 3, 4, 7
+and 2, 4, 11
+any 6
+anywhere 10
+application 9, 11
+applications 5, 12
+architecture 7
+are 5
+as 3, 8, 9
+at 1
+but 4
+by 1
+bytecode 5
+c 4
+c++ 4
+can 6
+class 5
+class-based 7
+compiled 5
+component 3
+computer 6
+concurrent 7
+core 3
+corporation 2
+currently 10
+dependencies 9
+derives 3
+designed 8
+developed 1
+developers 9
+facilities 5
+few 8
+fewer 4
+file 6
+from 4, 11
+general-purpose 7
+gosling 1
+has 4
+have 8
+implementation 8
+in 2, 11
+intended 9
+is 1, 2, 7, 8, 9, 10, 11
+it 9
+its 4
+james 1
+java 1, 3, 5, 6, 7, 10
+jvm 6
+language 1, 3, 8
+languages 11
+let 9
+low-level 5
+machine 6
+microsystems 2, 3
+model 4
+most 10
+much 4
+now 2
+object 4
+object-oriented 7
+of 2, 3, 4, 6, 10
+on 6
+once 10
+one 10
+oracle 2
+originally 1
+platform 3
+popular 10
+possible 9
+programming 1, 10
+regardless 6
+released 2
+run 6, 10
+simpler 4
+software 11
+specifically 8
+subsidiary 2
+sun 1, 3
+syntax 4
+that 6, 8
+the 3, 10
+to 5, 8, 9, 11
+typically 5
+use 11
+used 11
+virtual 6
+web 11
+which 2
+widely 11
+write 9
